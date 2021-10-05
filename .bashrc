@@ -121,3 +121,4 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 alias config='/usr/bin/git --git-dir=/home/faisal/.cfg/ --work-tree=/home/faisal'
 alias config='/usr/bin/git --git-dir=/home/faisal/.dotfiles/ --work-tree=/home/faisal'
+alias config='/usr/bin/git --git-dir=/home/faisal/.dotfiles/ --work-tree=/home/faisal'
